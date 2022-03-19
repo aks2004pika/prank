@@ -421,9 +421,7 @@
   background: var(--black-shadow-);
   transform: rotateX(-90deg) translateZ(180px);
   box-shadow: 0 0 20px 5px var(--black-shadow-);
-  animation: shadowAnim 1.5s ease-out 2s forwards;
 }
-
 /* Animations */
 @keyframes mainBlockAnim {
   0% {
